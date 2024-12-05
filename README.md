@@ -16,14 +16,10 @@ Dominos wants to optimize the process of ordering ingredients by predicting futu
 #  * Exploratory Data Analysis (EDA):
             Analyze sales trends, seasonality, and patterns in the historical sales data. Visualize the data to identify significant features.
 # Sales Prediction
-  # < Feature Engineering: 
-          Create relevant features from the sales data, such as day of the week, month, promotional periods, and holiday effects.
-  # < Model Selection: 
-          Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet, LSTM, Regression Model).
-  # < Model Training: 
-          Train the predictive model on the historical sales data.
-  # < Model Evaluation: 
-          Use metric Mean Absolute Percentage Error (MAPE) to evaluate model performance.
+  < Feature Engineering: Create relevant features from the sales data, such as day of the week, month, promotional periods, and holiday effects.
+  < Model Selection: Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet, LSTM, Regression Model).
+  < Model Training: Train the predictive model on the historical sales data.
+  < Model Evaluation: Use metric Mean Absolute Percentage Error (MAPE) to evaluate model performance.
 
 # Purchase Order Generation
      Sales Forecasting:
